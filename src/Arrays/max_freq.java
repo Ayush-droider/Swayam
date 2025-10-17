@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.*;
 
 public class max_freq {

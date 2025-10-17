@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Scanner;
 
 public class max_min {
