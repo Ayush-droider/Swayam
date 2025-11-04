@@ -1,4 +1,4 @@
-package Arrays;
+package Trees;
 
 import java.util.*;
 
