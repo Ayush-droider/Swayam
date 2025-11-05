@@ -32,4 +32,7 @@ public class StockSpan {
         for (int i = 0; i < n; i++)
             System.out.println(prices[i] + " -> " + span[i]);
     }
+
+    public static class ChineseRemainderTheorem {
+    }
 }
