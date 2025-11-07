@@ -13,7 +13,7 @@ public class MaxChunksToMakeSorted {
     public static void main(String[] args) {
         MaxChunksToMakeSorted obj = new MaxChunksToMakeSorted();
         int[] arr = {1, 0, 2, 3, 4};
-        System.out.println(obj.maxChunksToSorted(arr)); // Output: 4
+        System.out.println(obj.maxChunksToSorted(arr));
     }
 }
 
