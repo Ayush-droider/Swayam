@@ -40,7 +40,7 @@ public class Trie {
         return true;
     }
     public static void main(String[] args) {
-        Trie trie = new Trie();
+        Trie2 trie = new Trie2();
         trie.insert("car");
         trie.insert("cat");
         trie.insert("dog");
